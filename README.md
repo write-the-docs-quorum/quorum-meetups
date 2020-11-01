@@ -1,13 +1,5 @@
 # Write the Docs Quorum
 
----
-
-## Table of Contents
-
-[[_TOC_]]
-
----
-
 ## What is Write the Docs Quorum?
 
 The Quorum program brings together various Write the Docs meetup chapters that
