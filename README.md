@@ -1,5 +1,8 @@
 # Write the Docs Quorum
 
+This is the place to learn about the Write the Docs Quorum program.
+
+
 ## What is Write the Docs Quorum?
 
 The Quorum program brings together various Write the Docs meetup chapters that
