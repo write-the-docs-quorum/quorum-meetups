@@ -80,3 +80,7 @@ in a given region that are interested in participating.
 To join the discussion, join the [Write the Docs Slack](https://www.writethedocs.org/slack/)
 and add yourself to the `#meetup-organizers-quorum`. You can also send a direct
 message on Slack to Alyssa Rock, the current Quorum coordinator.
+
+We also have a mailing list on [wtd-quorum on groups.io](https://groups.io/g/wtd-quorum).
+We do our best to cross-post from Slack to the mailing list for archiving
+purposes.
