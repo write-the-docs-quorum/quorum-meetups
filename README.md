@@ -15,7 +15,8 @@ region for 2021. If the pilot program is successful and there is sufficient
 interest, Quorum might expand to the U.S. West Coast and EMEA regions later
 in 2021 or 2022.
 
-The following U.S. East Coast meetups are currently participating in Quorum:
+The following U.S. East Coast and Central meetups are currently participating in
+Quorum:
 
 - Atlanta, GA
 - Austin, TX
@@ -25,6 +26,9 @@ The following U.S. East Coast meetups are currently participating in Quorum:
 - Florida
 - Philadelphia, PA
 
+
+## Meetup schedules
+
 Meetups are held quarterly. On a rotating basis, a different meetup will be
 responsible for the quarterly super meetup.
 
@@ -32,6 +36,23 @@ If it is safe to do so (cornavirus notwithstanding), individual chapters
 can still meet in person during the off months for social networking or for
 their own local educational presentation events. Individual chapters are also
 welcome to organize in-person events to view the super meetups.
+
+Our quarters will consist of the following schedule:
+
+  | Q  | Months    |
+  | -- | --------- |
+  | Q1 | Feb-April |
+  | Q2 | May-July  |
+  | Q3 | Aug-Oct   |
+  | Q4 | Nov-Jan   |
+
+  As a general rule, meetups will occur the first month of the quarter with the
+  second month of the quarter acting as a backup if needed. We'll have a
+  planning meeting the last quarter of the month to plan the logistics for the
+  upcoming quarter.
+
+  We'll offer speakers Monday through Thursday as the range of acceptable days
+  of the week for presentations.
 
 
 ## Responsibilities of participating meetups
