@@ -10,6 +10,8 @@ See also: [Meeting agenda (detailed)](meeting-agenda-detailed.md).
 
 ## Before the meetup starts
 
+During social networking time:
+
 - Find out if the speaker will be releasing slides to everyone (and get the link
   if they'll be ready in advance).
 - Do a tech check of the slides if needed.
@@ -19,8 +21,8 @@ See also: [Meeting agenda (detailed)](meeting-agenda-detailed.md).
 
 ## Before the presentation
 
-- Two minutes before announcement time, warn people that it's coming so they
-  can wrap up networking conversations.
+Two minutes before announcement time, warn people that it's coming so they can
+wrap up networking conversations.
 
 
 ## At presentation starting time
