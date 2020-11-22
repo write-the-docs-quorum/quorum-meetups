@@ -1,6 +1,6 @@
 # Write the Docs Quorum
 
-This is the place to learn about the Write the Docs Quorum program.
+This is the place to learn about the Write the Docs Quorum pilot program.
 
 
 ## What is Write the Docs Quorum?
@@ -25,6 +25,9 @@ Quorum:
 - Durham, NC
 - Florida
 - Philadelphia, PA
+
+Quorum pilot coordinator for 2021:
+Alyssa Rock - @barbaricyawps
 
 
 ## Meetup schedules
@@ -53,6 +56,25 @@ Our quarters will consist of the following schedule:
 
   We'll offer speakers Monday through Thursday as the range of acceptable days
   of the week for presentations.
+
+## Meeting agenda and times
+
+Our meetings will last an hour and will follow this agenda and time structure:
+
+- **7:00 to 7:10 - Social networking time** - For the first 10 minutes, remote
+  attendees join the Zoom call and socialize.
+- **7:10 to 7:15 - Announcements** - The emcee will give announcements and
+  introduce the speaker.
+- **7:15 to 7:45 - Presentation and Q&A** - The speaker can spend about 30-45
+  minutes giving a presentation, which includes the Q&A portion. The Q&A can
+  expand to fill the time if the presentation is short.
+- **7:45 to 8:00 - Breakout rooms by meetup** - We'll use Zoom breakout rooms
+  to have people meet with their individual meetup organizers to say hi to
+  other people in their meetup. Organizers can use that time to talk about
+  job openings, talk about future meetups, and socialize.
+
+See [Meeting agenda (detailed)](meeting-agenda-detailed.md) more detailed
+meeting instructions. See also: [Emcee script](emcee-script.md).
 
 
 ## Responsibilities of participating meetups
@@ -105,3 +127,16 @@ message on Slack to Alyssa Rock, the current Quorum coordinator.
 We also have a mailing list on [wtd-quorum on groups.io](https://groups.io/g/wtd-quorum).
 We do our best to cross-post from Slack to the mailing list for archiving
 purposes.
+
+
+## Viewing issues and project board for this repository
+
+This repository uses the **ZenHub for Github** extension to manage the project
+board for this repository. You need to add this extension to your browser to
+view the project board.
+
+This extension is available for Chrome and Firefox browsers. To get either
+extension, visit [ZenHub Browser Extension](https://www.zenhub.com/extension).
+
+After installing the extension, you might be prompted to sign in using your
+GitHub account information.
