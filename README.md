@@ -82,8 +82,7 @@ of the week for presentations.
   | Jan    | East Coast leadership meeting |
   | Feb    | East Coast Quorum meetup      |
   | Mar    | Off (no meetings)             |
-  | Apr    | WTD Portland conference       |
-  |        | East Coast leadership meeting |
+  | Apr    | East Coast leadership meeting |
   | May    | East Coast Quorum meetup      |
   | June   | Off (no meetings)             |
   | July   | East Coast leadership meeting |
