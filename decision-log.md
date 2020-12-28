@@ -4,6 +4,31 @@ The following document describes the history of all governance decisions over
 time, listed in descending order from newest first:
 
 
+# 2020-12-11
+
+- **Description** - We officially have enough interest to form a West Coast U.S.
+  Quorum program and will launch a program later in 2021.
+- **Impact** - Now participants in the Pacific and Mountain time zones can
+  participate in Quorum as well.
+- **Agreed to by** - West Coast US Quorum participants.
+- **Source** - Proposed by West Coast US Quorum participants and agreed to in
+  Slack/mailing list.
+
+
+## 2020-12-05 - Coordinating on Meetup.com
+
+- **Description** - We will have a separate parent Meetup for each quorum
+  program. For example, we will have one for the U.S. East Coast and a separate
+  one for future Quorum programs we run (such as the U.S. West Coast or EMEA).
+  Local chapter organizers will announce upcoming events and direct their
+  members to join the parent Meetup to RSVP for events.
+- **Impact** - This structure will make it easier for participants who aren't a
+  member of a local chapter to join in.
+- **Agreed to by** - Majority of East Coast US quorum participants.
+- **Source** - Proposed by Alyssa and Rose and agreed to by Write the Docs
+  leadership and East Coast participants.
+
+
 ## 2020-11-22 - Meeting agenda
 
 - **Description** - Our meetings will last an hour and will follow this agenda
@@ -73,5 +98,6 @@ time, listed in descending order from newest first:
 
 - **Description** -
 - **Impact** -
-- **Agreed to by** - Majority of East Coast US quorum participants.
+- **Agreed to by** - Majority of East Coast US and West Coast US quorum
+  participants.
 - **Source** - Proposed by --- and agreed to in Slack/mailing list.

@@ -11,9 +11,9 @@ throughout the year. These are quarterly regional remote meetups, hence the
 name: QRRM.
 
 Write the Docs is running the Quorum program as a pilot in the U.S. East Coast
-region for 2021. If the pilot program is successful and there is sufficient
-interest, Quorum might expand to the U.S. West Coast and EMEA regions later
-in 2021 or 2022.
+region and U.S. West Coast regions for 2021. If the pilot program is successful
+and there is sufficient interest, the program might expand to EMEA regions
+later.
 
 The following U.S. East Coast and Central meetups are currently participating in
 Quorum:
@@ -26,8 +26,26 @@ Quorum:
 - Florida
 - Philadelphia, PA
 
+The following U.S. West Coast and Mountain meetups are currently participating
+in Quorum:
+
+- Bay Area, CA
+- Los Angeles, CA
+- Portland, OR
+- Salt Lake City, UT
+
 Quorum pilot coordinator for 2021:
 Alyssa Rock - @barbaricyawps
+
+
+## Meetup links
+
+We have a separate parent Meetup for each quorum program. Local chapter
+organizers will announce upcoming events and direct their members to join the
+parent Meetup to RSVP for events.
+
+- [U.S. East Coast and Central](https://www.meetup.com/virtual-write-the-docs-east-coast-quorum/)
+- [U.S. West Coast and Mountain](https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/)
 
 
 ## Meetup schedules
@@ -49,13 +67,50 @@ Our quarters will consist of the following schedule:
   | Q3 | Aug-Oct   |
   | Q4 | Nov-Jan   |
 
-  As a general rule, meetups will occur the first month of the quarter with the
-  second month of the quarter acting as a backup if needed. We'll have a
-  planning meeting the last quarter of the month to plan the logistics for the
-  upcoming quarter.
+As a general rule, East Coast meetups will occur the first month of the quarter
+and West Coast meetups will occur in the second month of the quarter acting as a
+backup if needed. We'll have a planning meeting the month before each meetup to
+plan the logistics for the upcoming quarter.
 
-  We'll offer speakers Monday through Thursday as the range of acceptable days
-  of the week for presentations.
+We'll offer speakers Monday through Thursday as the range of acceptable days
+of the week for presentations.
+
+## East Coast U.S. calendar for 2021
+
+  | Month  | Event                         |
+  | ------ | ----------------------------- |
+  | Jan    | East Coast leadership meeting |
+  | Feb    | East Coast Quorum meetup      |
+  | Mar    | Off (no meetings)             |
+  | Apr    | WTD Portland conference       |
+  |        | East Coast leadership meeting |
+  | May    | East Coast Quorum meetup      |
+  | June   | Off (no meetings)             |
+  | July   | East Coast leadership meeting |
+  | Aug    | East Coast Quorum meetup      |
+  | Sept   | Off (no meetings)             |
+  | Oct    | East Coast leadership meeting |
+  | Nov    | East Coast Quorum meetup      |
+  | Dec    | Off (no meetings)             |
+
+
+## West Coast U.S. calendar for 2021
+
+  | Month  | Event                         |
+  | ------ | ----------------------------- |
+  | Jan    | Off (no meetings)             |
+  | Feb    | West Coast leadership meeting |
+  | Mar    | West Coast Quorum meetup      |
+  | Apr    | WTD Portland conference       |
+  | May    | West Coast leadership meeting |
+  | June   | West Coast Quorum meetup      |
+  | July   | Off (no meetings)             |
+  | Aug    | West Coast leadership meeting |
+  | Sept   | West Coast Quorum meetup      |
+  | Oct    | Off (no meetings)             |
+  | Nov    | West Coast leadership meeting |
+  | Dec    | West Coast Quorum meetup      |
+
 
 ## Meeting agenda and times
 
