@@ -5,15 +5,15 @@ This is the place to learn about the Write the Docs Quorum pilot program.
 
 ## What is Write the Docs Quorum?
 
-The Quorum program brings together various Write the Docs meetup chapters that
-are in a common time zone to provide quarterly "super" meetups over Zoom
+The Quorum program brings together various local Write the Docs meetup chapters
+that are in a common time zone to provide quarterly super meetups over Zoom
 throughout the year. These are quarterly regional remote meetups, hence the
 name: QRRM.
 
 Write the Docs is running the Quorum program as a pilot in the U.S. East Coast
 region and U.S. West Coast regions for 2021. If the pilot program is successful
-and there is sufficient interest, the program might expand to EMEA regions
-later.
+and there is sufficient interest, the program might expand to EMEA and APAC
+regions later.
 
 The following U.S. East Coast and Central meetups are currently participating in
 Quorum:
@@ -68,12 +68,18 @@ Our quarters will consist of the following schedule:
   | Q4 | Nov-Jan   |
 
 As a general rule, East Coast meetups will occur the first month of the quarter
-and West Coast meetups will occur in the second month of the quarter acting as a
-backup if needed. We'll have a planning meeting the month before each meetup to
-plan the logistics for the upcoming quarter.
+and West Coast meetups will occur in the second month of the quarter. The off
+months for each quarter can act as a backup for meetings if needed. We'll have a
+planning meeting the month before each meetup to plan the logistics for the
+upcoming quarter.
 
-We'll offer speakers Monday through Thursday as the range of acceptable days
-of the week for presentations.
+We offer speakers Monday through Thursday as the range of acceptable days
+of the week for presentations. Meetups will be held at:
+
+- 7:00 p.m. Eastern / 6:00p.m. Central for the East Coast
+- 7:00 p.m. Pacific / 8:00p.m. Mountain for the West Coast (possibly subject to
+  change)
+
 
 ## East Coast U.S. calendar for 2021
 
