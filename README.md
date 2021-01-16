@@ -24,6 +24,7 @@ Quorum:
 - Detroit, MI/Windsor, CAN
 - Durham, NC
 - Florida
+- Ottawa/Montreal, CAN
 - Philadelphia, PA
 
 The following U.S. West Coast and Mountain meetups are currently participating
