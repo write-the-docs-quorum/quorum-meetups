@@ -36,6 +36,7 @@ presentation.
 Alyssa has a professional subscription to [Poll Everywhere](https://www.polleverywhere.com/)
 that we could possibly use to help this kind of networking and socializing.
 
+
 ## Announcements, Presentation, Q&A
 
 See [Emcee script](emcee-script.md) for guidance on how to run announcements,
@@ -44,4 +45,9 @@ presentation, and Q&A.
 
 ## Breakout rooms by meetup
 
-To do: work on the logistics of how to assign people to breakout rooms.
+During the social networking time, participants will answer a Poll Everywhere
+survey question about which breakout room they would like to be assigned to.
+The person running the Zoom call will use this information to assign people to
+breakout rooms during the session. If someone in the Zoom room does not fill
+out the survey, the Zoom coordinator can send them a private Zoom chat message
+asking what they would prefer.
