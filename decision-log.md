@@ -3,6 +3,27 @@
 The following document describes the history of all governance decisions over
 time, listed in descending order from newest first:
 
+# 2021-02-07
+
+- **Description** - Quorum events will be created on the parent Quorum meetup
+  and then the local meetups publish an announcement that tells their members 
+  about that event and encourages them to register at the Quorum Meetup event.
+  Local meetups will not publish their own version of the event.
+- **Impact** - Having only one meetup event is logistically easier to manage.
+- **Agreed to by** - Majority of East Coast US and West Coast US quorum
+  participants.
+- **Source** - Proposed by Alyssa and agreed to in Slack/mailing list.
+
+
+# 2021-01-21
+
+- **Description** - Quorum meetup events will ideally occur during the 3rd week
+  of the month, with the 4th week acting as a backup if needed.
+- **Impact** - This decision will allow our meetups to have some consistency.
+- **Agreed to by** - Majority of East Coast US and West Coast US quorum
+  participants.
+- **Source** - Proposed at the East Coast Quorum leadership meeting.
+
 
 # 2020-12-11
 
