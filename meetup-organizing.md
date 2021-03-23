@@ -10,17 +10,17 @@ The suggested timeframe for completing each of the preparation steps are:
 |  ---------------   |  ----------------   |
 |   Confirm details  |   1 month before    |
 |   Create event     |   3 weeks before    |
-|   Publicize event  |  2 weeks before     |
+|   Publicize event  |   2 weeks before    |
 
 ## Planning the meetup
 
 To plan the meetup, begin by brainstorming possible speakers or presenters that you'd like to consider for your meetup. As you are brainstorming, ask yourself a few questions:
 
-* **Is there anyone in my immediate social network that would make a great speaker, such as a friend, co-worker, or a member of my local meetup?** You may be surprised to find good speakers in your network! Speakers don't have to be technical writers by profession. They can be developers, UX designers, product managers, Scrum masters, or other related professionals---they all have useful insights to share.
-* **Have I read an interesting book on a documentation-related topic that I'd like to hear more about?** Speakers are usually willing to promote and discuss their books, especially to receptive audiences. Most people you approach are likely to say yes, so go ahead and dream big!
-* **Have I heard or watched any interesting presentations or podcast episodes outside of Write the Docs that I'd like to hear more about?** Who seems to be on the speaking circuit right now? Sometimes you can find good speakers that have presented at conferences or other local meetups, such as the Society of Technical Communicators, Confab, or other technology or content-oriented conferences. Speakers who have already given or prepared a presentation are usually more than happy to give the same presentation again.
-* **Did someone in the WTD community creatively solve a problem or develop a novel approach to a documentation task?** Sometimes people in the Write the Docs community have really interesting approaches to solving documentation problems. Sharing those problems and cool solutions can help others in their own sticky situations. Feel free to reach out to members of our community who might be interested in providing more details.
-* **Does someone who works for a company that makes documentation tools want to speak to our audience?** While we don't want every presentation to turn into a product demo, members of our community might be genuinely interested in hearing about new products or tools that are being developed to help solve documentation problems. Some product demos can be quite interesting and these kind of speakers will (of course) jump at the opportunity to speak to our community.
+- **Is there anyone in my immediate social network that would make a great speaker, such as a friend, co-worker, or a member of my local meetup?** You may be surprised to find good speakers in your network! Speakers don't have to be technical writers by profession. They can be developers, UX designers, product managers, Scrum masters, or other related professionals---they all have useful insights to share.
+- **Have I read an interesting book on a documentation-related topic that I'd like to hear more about?** Speakers are usually willing to promote and discuss their books, especially to receptive audiences. Most people you approach are likely to say yes, so go ahead and dream big!
+- **Have I heard or watched any interesting presentations or podcast episodes outside of Write the Docs that I'd like to hear more about?** Who seems to be on the speaking circuit right now? Sometimes you can find good speakers that have presented at conferences or other local meetups, such as the Society of Technical Communicators, Confab, or other technology or content-oriented conferences. Speakers who have already given or prepared a presentation are usually more than happy to give the same presentation again.
+- **Did someone in the WTD community creatively solve a problem or develop a novel approach to a documentation task?** Sometimes people in the Write the Docs community have really interesting approaches to solving documentation problems. Sharing those problems and cool solutions can help others in their own sticky situations. Feel free to reach out to members of our community who might be interested in providing more details.
+- **Does someone who works for a company that makes documentation tools want to speak to our audience?** While we don't want every presentation to turn into a product demo, members of our community might be genuinely interested in hearing about new products or tools that are being developed to help solve documentation problems. Some product demos can be quite interesting and these kind of speakers will (of course) jump at the opportunity to speak to our community.
 
 If you're stuck, Alyssa Rock will be more than happy to work with you to brainstorm possible speakers. Reach out to her to start that conversation.
 
@@ -53,7 +53,7 @@ Great ways to publicize the Quorum meetups in your local meetup groups include:
 
 One week prior to your meetup, the meetup organizer can optionally meet with Alyssa Rock to do a dry-run of the event emceeing and general flow. You and Alyssa will talk through the logistics and decide which ice-breaker questions you want to include---it only takes about 30 minutes! This will help give you confidence in helming the big event and give Alyssa the info she needs to effectively manage the event alongside you.
 
-You can also invite your speaker(s) to the dry-run if you feel it would be advantageous. It can help put both you, and your speaker(s), at ease and gives everyone a chance to ask questions.
+You can also invite your speaker(s) to the dry-run if you feel it would be advantageous. It can help you and your speaker(s) feel at ease and gives everyone a chance to ask questions.
 
 At a minimum, if you don't feel an emcee practice dry-run is necessary, open an [email thread](mailto:alyssa.rock@gmail.com) or Slack conversation with yourself, Alyssa, and your speaker(s) so that communication channels are open for sharing pertinent details.
 
