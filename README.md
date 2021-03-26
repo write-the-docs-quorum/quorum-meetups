@@ -16,8 +16,7 @@ The following U.S. East Coast and Central meetups are currently participating in
 - [Austin, TX](https://www.meetup.com/WriteTheDocs-ATX-Meetup/)
 - [Boston, MA](http://www.meetup.com/Write-the-Docs-BOS/)
 - [Detroit, MI/Windsor, CAN](https://www.meetup.com/write-the-docs-detroit-windsor/)
-- Durham, NC
-- Florida
+- [Florida](https://www.meetup.com/write-the-docs-florida/)
 - [Ottawa/Montreal, CAN](http://www.meetup.com/Write-The-Docs-YOW-Ottawa/)
 - [Philadelphia, PA](https://www.writethedocs.org/meetups/philly/)
 
@@ -113,6 +112,8 @@ Participating local meetup organizers agree to:
 - (Optional): It could help to have 1-2 core team members who can assist in coordinating the Zoom calls and communicating with meetup organizers.
 
 For more information and tips for organizing a successful meetup when it's your turn, see [Organizing a meetup](meetup-organizing.md).
+
+If you need to act as the Zoom coordinator for the event, see the [Zoom coordinator guide](zoom-coordinator-guide).
 
 
 ## How to participate in Quorum
