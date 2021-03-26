@@ -2,8 +2,11 @@
 
 Typically Alyssa takes on the role of the Zoom coordinator, but if there's ever a month where someone else needs to take on that role, this will guide you through the process!
 
+<<<<<<< HEAD
 Even if you don't ever sub for me, these can also serve as a best practices guide for hosting your own online events.
 
+=======
+>>>>>>> adcf280b6c66f4f55f9b0d6263acdfb343986641
 ## Get access to a pro Zoom account
 
 The first step is to get access to a pro Zoom account (hosts 100 participants for unlimited meeting lengths).
@@ -104,7 +107,11 @@ Salt Lake City, UT - https://www.meetup.com/Write-the-Docs-SLC/
 After creating the new Meetup event, publicize it to the following channels:
 
 - Direct Slack message or email to the presenter(s) and/or meetup organizer
+<<<<<<< HEAD
 - Post on the `#meetup-organizers-quorum` Slack channel and tag either the East or West Coast organizers for awareness
+=======
+- Post on the ``#meetup-organizers-quorum` Slack channel and tag either the East or West Coast organizers for awareness
+>>>>>>> adcf280b6c66f4f55f9b0d6263acdfb343986641
 - Post on the `groups.io` group for Quorum
 - Send an email to the Write the Docs newsletter team: `newsletter@writethedocs.org`
 
