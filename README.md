@@ -3,7 +3,7 @@
 This is the place to learn about the Write the Docs Quorum pilot program.
 
 
-## :green_book: What is Write the Docs Quorum?
+## :sparkles: What is Write the Docs Quorum?
 
 The Quorum program brings together various local [Write the Docs](https://www.writethedocs.org/) meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year.
 These are quarterly regional remote meetups, hence the name: QRRM.
