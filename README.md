@@ -3,7 +3,7 @@
 This is the place to learn about the Write the Docs Quorum pilot program.
 
 
-## What is Write the Docs Quorum?
+## :sparkles: What is Write the Docs Quorum?
 
 The Quorum program brings together various local [Write the Docs](https://www.writethedocs.org/) meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year.
 These are quarterly regional remote meetups, hence the name: QRRM.
@@ -31,7 +31,7 @@ Quorum pilot coordinator for 2021:
 Alyssa Rock - @barbaricyawps on GitHub; feel free to DM her on the [Write the Docs Slack workspace](https://www.writethedocs.org/slack/) any time!
 
 
-## Meetup links
+## :link: Meetup links
 
 We have a separate parent Meetup for each quorum program.
 Local chapter organizers will announce upcoming events and direct their members to join the parent Meetup to RSVP for events.
@@ -40,7 +40,7 @@ Local chapter organizers will announce upcoming events and direct their members 
 - [U.S. West Coast and Mountain](https://www.meetup.com/virtual-write-the-docs-west-coast-quorum/)
 
 
-## Meetup schedules
+## :calendar: Meetup schedules
 
 Meetups are held quarterly.
 On a rotating basis, a different meetup will be responsible for the quarterly super meetup.
@@ -61,7 +61,7 @@ Meetups will be held at:
   change)
 
 
-## Meeting agenda and times
+## :hourglass_flowing_sand: Meeting agenda and times
 
 Our meetings will last an hour and will follow this agenda and time structure:
 
@@ -73,7 +73,7 @@ Our meetings will last an hour and will follow this agenda and time structure:
 See [Meeting agenda (detailed)](meeting-agenda-detailed.md) more detailed meeting instructions. See also: [Emcee script](emcee-script.md).
 
 
-## Quorum meetup event publicity
+## :mega: Quorum meetup event publicity
 
 Quorum events will be created on the parent Quorum meetup and then the local meetups will publish an announcement that tells their members about that event.
 These announcements will encourage their local members to register at the Quorum Meetup event. Local meetups will not publish their own version of the event.
@@ -87,7 +87,7 @@ Traffic is hopefully driven back to local meetups by:
 See [Quorum meetup publicity (detailed)](meetup-publicity-detailed.md) for more information about publicity.
 
 
-## Advantages of participating
+## :trophy: Advantages of participating
 
 If you are a local WTD meetup organizer, participating in WTD Quorum has many potential advantages:
 
@@ -101,7 +101,7 @@ Remote meetups allow WTD members from less dense geographic regions to have acce
 Remote meetups don’t have these needs.
 
 
-## Responsibilities of participating meetups
+## :heavy_check_mark: Responsibilities of participating meetups
 
 Participating local meetup organizers agree to:
 
@@ -116,7 +116,7 @@ For more information and tips for organizing a successful meetup when it's your 
 If you need to act as the Zoom coordinator for the event, see the [Zoom coordinator guide](zoom-coordinator-guide).
 
 
-## How to participate in Quorum
+## :raised_hand: How to participate in Quorum
 
 We can launch a new quorum in a region if we have at least 4 or more local meetups in a given region that are interested in participating.
 
@@ -127,7 +127,7 @@ We also have a mailing list on [wtd-quorum on groups.io](https://groups.io/g/wtd
 We do our best to cross-post from Slack to the mailing list for archiving purposes.
 
 
-## Viewing issues and project board for this repository
+## :beetle: Viewing issues and project board for this repository
 
 This repository uses the **ZenHub for Github** extension to manage the project board for this repository. You need to add this extension to your browser to view the project board.
 
@@ -136,6 +136,6 @@ This extension is available for Chrome and Firefox browsers. To get either exten
 After installing the extension, you might be prompted to sign in using your GitHub account information.
 
 
-## Will Quorum meetups continue after the coronavirus pandemic?
+## :hospital: Will Quorum meetups continue after the coronavirus pandemic?
 
 The long-term plan is that regional Quorum events will become a permanent part of Write the Docs, assuming it provides value and there is sufficient interest from participants.
