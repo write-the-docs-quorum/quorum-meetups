@@ -14,9 +14,9 @@ The following U.S. East Coast and Central meetups are currently participating in
 
 - [Atlanta, GA](https://www.meetup.com/Write-the-Docs-Atlanta/)
 - [Austin, TX](https://www.meetup.com/WriteTheDocs-ATX-Meetup/)
-- [Boston, MA](http://www.meetup.com/Write-the-Docs-BOS/)
 - [Detroit, MI/Windsor, CAN](https://www.meetup.com/write-the-docs-detroit-windsor/)
 - [Florida](https://www.meetup.com/write-the-docs-florida/)
+- [New England](https://www.meetup.com/ne-write-the-docs/)
 - [Ottawa/Montreal, CAN](http://www.meetup.com/Write-The-Docs-YOW-Ottawa/)
 - [Philadelphia, PA](https://www.writethedocs.org/meetups/philly/)
 

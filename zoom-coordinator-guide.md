@@ -70,9 +70,9 @@ The Quorum program brings together various local Write the Docs meetup chapters 
 
 Atlanta, GA - https://www.meetup.com/Write-the-Docs-Atlanta/
 Austin, TX - https://www.meetup.com/WriteTheDocs-ATX-Meetup/
-Boston, MA - http://www.meetup.com/Write-the-Docs-BOS/
 Detroit, MI/Windsor, CAN (our host meetup!) - https://www.meetup.com/write-the-docs-detroit-windsor/
 Florida - https://www.meetup.com/write-the-docs-florida/
+New England - https://www.meetup.com/ne-write-the-docs/
 Ottawa/Montreal, CAN - http://www.meetup.com/Write-The-Docs-YOW-Ottawa/
 Philadelphia, PA - https://www.writethedocs.org/meetups/philly/
 ```
