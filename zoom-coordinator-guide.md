@@ -75,6 +75,9 @@ Detroit, MI/Windsor, CAN (our host meetup!) - https://www.meetup.com/write-the-d
 Florida - https://www.meetup.com/write-the-docs-florida/
 Ottawa/Montreal, CAN - http://www.meetup.com/Write-The-Docs-YOW-Ottawa/
 Philadelphia, PA - https://www.writethedocs.org/meetups/philly/
+
+NOTE:
+This meeting will be recorded. Also be advised that the Zoom room for this meeting is capped at 100 attendees. If more than 100 individuals RSVP for the event, only the first 100 attendees who enter the Zoom room will be able to attend.
 ```
 
 For the event description, use this template for the **West Coast Quorum**:
@@ -98,6 +101,9 @@ Bay Area, CA - https://www.meetup.com/Write-the-Docs-Bay-Area/
 Los Angeles, CA - https://www.meetup.com/Write-the-Docs-LA/
 Portland, OR - https://www.meetup.com/Write-The-Docs-PDX/
 Salt Lake City, UT - https://www.meetup.com/Write-the-Docs-SLC/
+
+NOTE:
+This meeting will be recorded. Also be advised that the Zoom room for this meeting is capped at 100 attendees. If more than 100 individuals RSVP for the event, only the first 100 attendees who enter the Zoom room will be able to attend.
 ```
 
 ## Publicize the meetup event
