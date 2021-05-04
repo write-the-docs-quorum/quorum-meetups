@@ -75,6 +75,7 @@ Florida - https://www.meetup.com/write-the-docs-florida/
 New England - https://www.meetup.com/ne-write-the-docs/
 Ottawa/Montreal, CAN - http://www.meetup.com/Write-The-Docs-YOW-Ottawa/
 Philadelphia, PA - https://www.writethedocs.org/meetups/philly/
+Washington, D.C. - https://www.meetup.com/Write-the-Docs-DC/
 
 NOTE:
 This meeting will be recorded. Also be advised that the Zoom room for this meeting is capped at 100 attendees. If more than 100 individuals RSVP for the event, only the first 100 attendees who enter the Zoom room will be able to attend.
