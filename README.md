@@ -19,6 +19,7 @@ The following U.S. East Coast and Central meetups are currently participating in
 - [New England](https://www.meetup.com/ne-write-the-docs/)
 - [Ottawa/Montreal, CAN](http://www.meetup.com/Write-The-Docs-YOW-Ottawa/)
 - [Philadelphia, PA](https://www.writethedocs.org/meetups/philly/)
+- [Washington, D.C.](https://www.meetup.com/Write-the-Docs-DC/)
 
 The following U.S. West Coast and Mountain meetups are currently participating in Quorum:
 
