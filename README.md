@@ -27,6 +27,7 @@ The following U.S. West Coast and Mountain meetups are currently participating i
 - [Los Angeles, CA](https://www.meetup.com/Write-the-Docs-LA/)
 - [Portland, OR](https://www.meetup.com/Write-The-Docs-PDX/)
 - [Salt Lake City, UT](https://www.meetup.com/Write-the-Docs-SLC/)
+- [Seattle, WA](https://www.meetup.com/Write-The-Docs-Seattle/)
 
 Quorum pilot coordinator for 2021:
 Alyssa Rock - @barbaricyawps on GitHub; feel free to DM her on the [Write the Docs Slack workspace](https://www.writethedocs.org/slack/) any time!
