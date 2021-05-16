@@ -102,6 +102,7 @@ Bay Area, CA - https://www.meetup.com/Write-the-Docs-Bay-Area/
 Los Angeles, CA - https://www.meetup.com/Write-the-Docs-LA/
 Portland, OR - https://www.meetup.com/Write-The-Docs-PDX/
 Salt Lake City, UT - https://www.meetup.com/Write-the-Docs-SLC/
+Seattle, WA - https://www.meetup.com/Write-The-Docs-Seattle/
 
 NOTE:
 This meeting will be recorded. Also be advised that the Zoom room for this meeting is capped at 100 attendees. If more than 100 individuals RSVP for the event, only the first 100 attendees who enter the Zoom room will be able to attend.
