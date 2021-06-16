@@ -21,7 +21,7 @@ The following U.S. East Coast and Central meetups are currently participating in
 - [Philadelphia, PA](https://www.writethedocs.org/meetups/philly/)
 - [Washington, D.C.](https://www.meetup.com/Write-the-Docs-DC/)
 
-The following U.S. West Coast, Mountain and Australian meetups are currently participating in Quorum:
+The following U.S. West Coast, Mountain, and Australian meetups are currently participating in Quorum:
 
 - [Bay Area, CA](https://www.meetup.com/Write-the-Docs-Bay-Area/)
 - [Los Angeles, CA](https://www.meetup.com/Write-the-Docs-LA/)
