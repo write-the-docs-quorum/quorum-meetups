@@ -96,13 +96,14 @@ AGENDA
 7:45 to 8:00 - Breakout rooms by meetup - Meet with your local meetup organizers and members to say hi to other people in your area!
 
 SPONSORING MEETUPS
-The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year. The following U.S. West Coast and Mountain meetups are sponsoring this Meetup event:
+The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year. The following U.S. West Coast, Mountain, and Australia meetups are sponsoring this Meetup event:
 
 Bay Area, CA - https://www.meetup.com/Write-the-Docs-Bay-Area/
 Los Angeles, CA - https://www.meetup.com/Write-the-Docs-LA/
 Portland, OR - https://www.meetup.com/Write-The-Docs-PDX/
 Salt Lake City, UT - https://www.meetup.com/Write-the-Docs-SLC/
 Seattle, WA - https://www.meetup.com/Write-The-Docs-Seattle/
+Australia - https://www.meetup.com/Write-the-Docs-Australia/
 
 NOTE:
 This meeting will be recorded. Also be advised that the Zoom room for this meeting is capped at 100 attendees. If more than 100 individuals RSVP for the event, only the first 100 attendees who enter the Zoom room will be able to attend.
