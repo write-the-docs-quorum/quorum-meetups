@@ -26,7 +26,6 @@ The following U.S. West Coast, Mountain, and Australian meetups are currently pa
 - [Bay Area, CA](https://www.meetup.com/Write-the-Docs-Bay-Area/)
 - [Los Angeles, CA](https://www.meetup.com/Write-the-Docs-LA/)
 - [Portland, OR](https://www.meetup.com/Write-The-Docs-PDX/)
-- [Salt Lake City, UT](https://www.meetup.com/Write-the-Docs-SLC/)
 - [Seattle, WA](https://www.meetup.com/Write-The-Docs-Seattle/)
 - [Australia](https://www.meetup.com/Write-the-Docs-Australia/)
 
