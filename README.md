@@ -12,12 +12,10 @@ Write the Docs is running the Quorum program as a pilot in the U.S. East Coast r
 
 The following U.S. East Coast and Central meetups are currently participating in Quorum:
 
-- [Atlanta, GA](https://www.meetup.com/Write-the-Docs-Atlanta/)
 - [Austin, TX](https://www.meetup.com/WriteTheDocs-ATX-Meetup/)
 - [Detroit, MI/Windsor, CAN](https://www.meetup.com/write-the-docs-detroit-windsor/)
 - [Florida](https://www.meetup.com/write-the-docs-florida/)
 - [New England](https://www.meetup.com/ne-write-the-docs/)
-- [Ottawa/Montreal, CAN](http://www.meetup.com/Write-The-Docs-YOW-Ottawa/)
 - [Philadelphia, PA](https://www.writethedocs.org/meetups/philly/)
 - [Washington, D.C.](https://www.meetup.com/Write-the-Docs-DC/)
 
@@ -129,7 +127,7 @@ We also have a mailing list on [wtd-quorum on groups.io](https://groups.io/g/wtd
 We do our best to cross-post from Slack to the mailing list for archiving purposes.
 
 
-## :beetle: Viewing issues and project board for this repository
+## :clipboard: Viewing issues and project board for this repository
 
 This repository uses the **ZenHub for Github** extension to manage the project board for this repository. You need to add this extension to your browser to view the project board.
 
