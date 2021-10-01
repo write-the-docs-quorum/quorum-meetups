@@ -68,12 +68,10 @@ SPONSORING MEETUPS:
 The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year.The following U.S. East Coast and Central meetups are sponsoring this Meetup event:
 
 
-Atlanta, GA - https://www.meetup.com/Write-the-Docs-Atlanta/
 Austin, TX - https://www.meetup.com/WriteTheDocs-ATX-Meetup/
 Detroit, MI/Windsor, CAN (our host meetup!) - https://www.meetup.com/write-the-docs-detroit-windsor/
 Florida - https://www.meetup.com/write-the-docs-florida/
 New England - https://www.meetup.com/ne-write-the-docs/
-Ottawa/Montreal, CAN - http://www.meetup.com/Write-The-Docs-YOW-Ottawa/
 Philadelphia, PA - https://www.writethedocs.org/meetups/philly/
 Washington, D.C. - https://www.meetup.com/Write-the-Docs-DC/
 
