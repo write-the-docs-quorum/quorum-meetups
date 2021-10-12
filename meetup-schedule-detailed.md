@@ -24,37 +24,37 @@ planning meeting the month before each meetup to plan the logistics for the
 upcoming quarter.
 
 
-## East Coast U.S. calendar for 2021
-
-  | Month  | Event                         |
-  | ------ | ----------------------------- |
-  | Jan    | East Coast leadership meeting |
-  | Feb    | East Coast Quorum meetup      |
-  | Mar    | Off (no meetings)             |
-  | Apr    | East Coast leadership meeting |
-  | May    | East Coast Quorum meetup      |
-  | June   | Off (no meetings)             |
-  | July   | East Coast leadership meeting |
-  | Aug    | East Coast Quorum meetup      |
-  | Sept   | Off (no meetings)             |
-  | Oct    | East Coast leadership meeting |
-  | Nov    | East Coast Quorum meetup      |
-  | Dec    | Off (no meetings)             |
-
-
-## West Coast U.S. calendar for 2021
+## East Coast U.S. calendar for 2022
 
   | Month  | Event                         |
   | ------ | ----------------------------- |
   | Jan    | Off (no meetings)             |
-  | Feb    | West Coast leadership meeting |
+  | Feb    | East Coast Quorum meetup      |
+  | Mar    | Off (no meetings)             |
+  | Apr    | WTD Portland conference       |
+  | May    | East Coast Quorum meetup      |
+  | June   | Off (no meetings)             |
+  | July   | Off (no meetings)             |
+  | Aug    | East Coast Quorum meetup      |
+  | Sept   | Off (no meetings)             |
+  | Oct    | Off (no meetings)             |
+  | Nov    | East Coast Quorum meetup      |
+  | Dec    | Off (no meetings)             |
+
+
+## West Coast U.S. calendar for 2022
+
+  | Month  | Event                         |
+  | ------ | ----------------------------- |
+  | Jan    | West Coast Quorum meetup      |
+  | Feb    | Off (no meetings)             |
   | Mar    | West Coast Quorum meetup      |
   | Apr    | WTD Portland conference       |
-  | May    | West Coast leadership meeting |
+  | May    | Off (no meetings)             |
   | June   | West Coast Quorum meetup      |
   | July   | Off (no meetings)             |
-  | Aug    | West Coast leadership meeting |
+  | Aug    | Off (no meetings)             |
   | Sept   | West Coast Quorum meetup      |
   | Oct    | Off (no meetings)             |
-  | Nov    | West Coast leadership meeting |
+  | Nov    | Off (no meetings)             |
   | Dec    | West Coast Quorum meetup      |
