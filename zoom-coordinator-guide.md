@@ -65,8 +65,7 @@ AGENDA
 7:45 to 8:00 - Breakout rooms by meetup - Meet with your local meetup organizers and members to say hi to other people in your area!
 
 SPONSORING MEETUPS:
-The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year.The following U.S. East Coast and Central meetups are sponsoring this Meetup event:
-
+The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year. The following U.S. East Coast and Central meetups are sponsoring this Meetup event:
 
 Austin, TX - https://www.meetup.com/WriteTheDocs-ATX-Meetup/
 Detroit, MI/Windsor, CAN (our host meetup!) - https://www.meetup.com/write-the-docs-detroit-windsor/
@@ -96,11 +95,11 @@ AGENDA
 SPONSORING MEETUPS
 The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year. The following U.S. West Coast, Mountain, and Australia meetups are sponsoring this Meetup event:
 
+Australia - https://www.meetup.com/Write-the-Docs-Australia/
 Bay Area, CA - https://www.meetup.com/Write-the-Docs-Bay-Area/
 Los Angeles, CA - https://www.meetup.com/Write-the-Docs-LA/
 Portland, OR - https://www.meetup.com/Write-The-Docs-PDX/
 Seattle, WA - https://www.meetup.com/Write-The-Docs-Seattle/
-Australia - https://www.meetup.com/Write-the-Docs-Australia/
 
 NOTE:
 This meeting will be recorded. Also be advised that the Zoom room for this meeting is capped at 100 attendees. If more than 100 individuals RSVP for the event, only the first 100 attendees who enter the Zoom room will be able to attend.
@@ -145,7 +144,7 @@ TITLE: Looking forward to tonight's meetup!
 
 Hello, to all of you who have RSVPed for tonight's Write the Docs [East/West] Coast Quorum meetup event! We're pleasantly surprised that so many of you have signed up for today's event and we think you'll enjoy tonight's presentation.
 
-However, be aware that we currently have more than 100 participants who have RSVPed for this event and our current Zoom account only allows 100 participants. While we don't think that more than 100 people will show up for tonight's event, we will have to cap attendance at 100 if more do arrive. If you are not fortunate enough to join us on the call or are unable to, be aware that we will record this presentation and post it on the Write the Docs YouTube channel soon after tonight's presentation.
+However, be aware that we currently have more than 100 participants who have RSVPed for this event and our current Zoom account only allows 100 participants. While we don't think that more than 100 people will show up for tonight's event, we will have to cap attendance at 100 if more do arrive. If you are not fortunate enough to join us on the call or are unable to, be aware that we will record this presentation and post it on the Write the Docs Podcasts and Meetups YouTube channel soon after tonight's presentation.
 
 On that note, here's our agenda for tonight (listed in [Eastern/Pacific] times):
 
@@ -215,7 +214,7 @@ After the video is available, send one last message to the meeting attendees:
 ```
 TITLE: Video of "presentation title" is now available
 
-Thank you to all of you who were able to attend our recent session with the [presenter name]. If you missed the event or would like to revisit the talk, it's now available on the Write the Docs YouTube channel: [link]
+Thank you to all of you who were able to attend our recent session with the [presenter name]. If you missed the event or would like to revisit the talk, it's now available on the Write the Docs Podcasts and Meetups YouTube channel: [link]
 
 We have meetups once a quarter, so our next event will be in [month of next meetup]. We hope to see you there!
 ```
