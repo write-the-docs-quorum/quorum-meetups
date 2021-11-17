@@ -37,7 +37,7 @@ Listed by most recent to oldest:
     <td>ECQ</td>
     <td>
       <ul>
-        <li>Good vs. Bad API Documentation</li>
+        <li><a href="https://www.youtube.com/watch?v=-TFAJ-PQSC4">Good vs. Bad API Documentation</a></li>
         <li>Al Newkirk</li>
         <li>Sponsored by Philadelphia, PA</li>
         <li>66 participants, 147 RSVPs</li>
