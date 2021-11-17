@@ -9,11 +9,23 @@ Listed by most recent to oldest:
     <th>Details</th>
   </tr>
   <tr>
-    <td>9-23-2021</td>
-    <td>ECQ/WCQ</td>
+    <td>11-16-2021</td>
+    <td>ECQ and WCQ</td>
     <td>
       <ul>
-        <li>More Than Words: An Introduction to Information Architecture</li>
+        <li>Docs for Developers: A conversation with the authors</li>
+        <li>Jared Bhatti, Zachary Corleissen, Dave Nunez</li>
+        <li>Sponsored by the Bay Area, CA</li>
+        <li>69 participants, 144 RSVPs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>9-23-2021</td>
+    <td>WCQ</td>
+    <td>
+      <ul>
+        <li>More Than Words: An introduction to information architecture</li>
         <li>Lana Brindley</li>
         <li>Sponsored by Portland, OR</li>
         <li>100 participants, 300 RSVPs</li>
