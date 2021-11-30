@@ -72,6 +72,7 @@ Detroit, MI/Windsor, CAN (our host meetup!) - https://www.meetup.com/write-the-d
 Florida - https://www.meetup.com/write-the-docs-florida/
 New England - https://www.meetup.com/ne-write-the-docs/
 Philadelphia, PA - https://www.writethedocs.org/meetups/philly/
+Toronto, ON, CAN - https://www.meetup.com/Write-The-Docs-Toronto/
 Washington, D.C. - https://www.meetup.com/Write-the-Docs-DC/
 
 NOTE:
