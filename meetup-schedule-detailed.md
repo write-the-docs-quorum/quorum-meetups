@@ -31,8 +31,8 @@ upcoming quarter.
   | Jan    | Off (no meetings)             |
   | Feb    | East Coast Quorum meetup      |
   | Mar    | Off (no meetings)             |
-  | Apr    | WTD Portland conference       |
-  | May    | East Coast Quorum meetup      |
+  | Apr    | East Coast Quorum meetup      |
+  | May    | WTD Portland conference       |
   | June   | Off (no meetings)             |
   | July   | Off (no meetings)             |
   | Aug    | East Coast Quorum meetup      |
@@ -49,8 +49,8 @@ upcoming quarter.
   | Jan    | West Coast Quorum meetup      |
   | Feb    | Off (no meetings)             |
   | Mar    | West Coast Quorum meetup      |
-  | Apr    | WTD Portland conference       |
-  | May    | Off (no meetings)             |
+  | Apr    | Off (no meetings)             |
+  | May    | WTD Portland conference       |
   | June   | West Coast Quorum meetup      |
   | July   | Off (no meetings)             |
   | Aug    | Off (no meetings)             |
