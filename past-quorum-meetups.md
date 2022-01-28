@@ -9,6 +9,18 @@ Listed by most recent to oldest:
     <th>Details</th>
   </tr>
   <tr>
+    <td>1-27-2022</td>
+    <td>WCQ</td>
+    <td>
+      <ul>
+        <li>Docker Desktop for Documentarians: A novice's introduction</li>
+        <li>Alec Clews</li>
+        <li>Sponsored by Australia WTD</li>
+        <li>38 participants, 96 RSVPs (impacted by 1 week delay)</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td>11-16-2021</td>
     <td>ECQ and WCQ</td>
     <td>
