@@ -9,6 +9,18 @@ Listed by most recent to oldest:
     <th>Details</th>
   </tr>
   <tr>
+    <td>2-10-2022</td>
+    <td>ECQ</td>
+    <td>
+      <ul>
+        <li>Write the Docs Conference Proposal Workshop</li>
+        <li>Jennifer Rondeau</li>
+        <li>Sponsored by Washington, DC</li>
+        <li>21 participants, 33 RSVPs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td>1-27-2022</td>
     <td>WCQ</td>
     <td>
