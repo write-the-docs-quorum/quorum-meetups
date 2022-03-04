@@ -47,7 +47,7 @@ Before creating the Meetup event, you need the following:
 - The Zoom meeting URL
 - The presentation title and description
 - The presenter(s) name, title, and bio
-- An image for the event (Alyssa has some on stock if you need)
+- A 1200 x 675 image for the event (Alyssa has some on stock if you need)
 
 On Meetup, create a new event.
 For the event description, use this template for the **East Coast Quorum**:
@@ -59,10 +59,10 @@ OUR SPEAKER:
 [Presenter(s) name, title, and bio]
 
 AGENDA
-7:00 to 7:10 - Social networking
-7:10 to 7:15 - Announcements
-7:15 to 7:45 - Presentation and Q&A
-7:45 to 8:00 - Breakout rooms by meetup - Meet with your local meetup organizers and members to say hi to other people in your area!
+7:00 to 7:05 - Icebreaker activity
+7:05 to 7:10 - Announcements
+7:10 to 8:00 - Presentation and Q&A
+8:00 to 8:15 - Optional breakout rooms by meetup - Stay a few minutes after the presentation to meet with your local meetup organizers and members to say hi to other people in your area!
 
 SPONSORING MEETUPS:
 The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year. The following U.S. East Coast and Central meetups are sponsoring this Meetup event:
@@ -88,13 +88,13 @@ OUR SPEAKER:
 [Presenter(s) name, title, and bio]
 
 AGENDA
-7:00 to 7:10 - Social networking
-7:10 to 7:15 - Announcements
-7:15 to 7:45 - Presentation and Q&A
-7:45 to 8:00 - Breakout rooms by meetup - Meet with your local meetup organizers and members to say hi to other people in your area!
+7:00 to 7:05 - Icebreaker activity
+7:05 to 7:10 - Announcements
+7:10 to 8:00 - Presentation and Q&A
+8:00 to 8:15 - Optional breakout rooms by meetup - Stay a few minutes after the presentation to meet with your local meetup organizers and members to say hi to other people in your area!
 
 SPONSORING MEETUPS
-The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year. The following U.S. West Coast, Mountain, and Australia meetups are sponsoring this Meetup event:
+The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year. The following U.S. West Coast and Australia meetups are sponsoring this Meetup event:
 
 Australia - https://www.meetup.com/Write-the-Docs-Australia/
 Bay Area, CA - https://www.meetup.com/Write-the-Docs-Bay-Area/
