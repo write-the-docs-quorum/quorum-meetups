@@ -52,7 +52,7 @@ Individual chapters are also welcome to organize in-person events to view the su
 As a general rule, East Coast meetups will occur the first month of the quarter and West Coast meetups will occur in the second month of the quarter.
 The off months for each quarter can act as a backup for meetings if needed.
 We'll have a planning meeting the month before each meetup to plan the logistics for the upcoming quarter.
-See [Quorum meetup schedule and calendar (detailed)](meetup-schedule-detailed.md) for more information.
+See [Quorum meetup schedule and calendar (detailed)](meetup-calendar-detailed.md) for more information.
 
 Quorum meetup events will ideally occur during the 3rd week of the month, with the 4th week acting as a backup if needed. We offer speakers Monday through Thursday as the range of acceptable days of the week for presentations.
 Meetups will be held at:

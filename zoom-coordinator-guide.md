@@ -26,7 +26,7 @@ After the meetup organizer has set a date and time for the event, create a Zoom 
 - **Waiting Room** - Make sure this is activated (turned on by default).
 - **Meeting options** - Check the boxes for:
   - Mute participants upon entry
-  - Automatically record meeting (then select *In the cloud*)
+  - Automatically record meeting (then select *In the cloud* but only if you are Alyssa; Write the Docs wants you to record to your local computer instead)
 
 After you save the meeting, you see the meeting details page.
 On this page, click **Copy invitation** to get the Zoom details.
