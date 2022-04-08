@@ -62,6 +62,22 @@ Shortly before the tech check:
 
 6. Ask if the speaker would like to leave after the presentation and Q&A or join one of the breakout rooms.
 
+7. Run through protocol for what to do when a Zoom bomber occurs.
+   - We've only had a Zoom bomber one time, but we want to be prepared in case it happens again.
+   - Here's what we do when we set up the meeting:
+     - We always enable a waiting room so we can screen guests entering in.
+     - We always require a meeting passcode.
+     - We also mute participants upon entry.
+   - We only give screen sharing permissions to the host and co-host. Sometimes a Zoom bomber might send you a request for access to share their screen while you are speaking. If you see this request, go ahead and stop your presentation and say, "Someone is asking for permission to share my screen."
+   - If I suspect a Zoom bombing is beginning, I will immediately implement security measures that will:
+     - Lock the meeting so that no new people could join.
+     - Turn off everyone’s profile pictures and videos.
+     - Stop all screen sharing, including your presentation. (People with host privileges could still screen share after that initial interruption.)
+     - Turn off people’s ability to rename themselves.
+     - Suspends the chat.
+  - When that happens, I'll ask if you are feeling okay to continue. It is okay if the answer is no. If you answer yes, I will continue to keep the meeting in lockdown until a significant amount of time has passed. I will slowly re-introduce some permissions to the group one at a time.
+
+
 7. Do you want to do a dry run of your presentation at all?
 
 8. Do you have the link to the event? Do you need us to send it to you?
