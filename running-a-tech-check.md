@@ -75,11 +75,10 @@ Shortly before the tech check:
      - Stop all screen sharing, including your presentation. (People with host privileges could still screen share after that initial interruption.)
      - Turn off people’s ability to rename themselves.
      - Suspends the chat.
-  - When that happens, I'll ask if you are feeling okay to continue. It is okay if the answer is no. If you answer yes, I will continue to keep the meeting in lockdown until a significant amount of time has passed. I will slowly re-introduce some permissions to the group one at a time.
+   - When that happens, I'll ask if you are feeling okay to continue. **It is okay if the answer is no.** However, if you answer yes, I will continue to keep the meeting in lockdown until a significant amount of time has passed. I will slowly re-introduce some permissions to the group one at a time.
 
+8. Do you want to do a dry run of your presentation at all?
 
-7. Do you want to do a dry run of your presentation at all?
+9. Do you have the link to the event? Do you need us to send it to you?
 
-8. Do you have the link to the event? Do you need us to send it to you?
-
-9. Any additional questions or concerns?
+10. Any additional questions or concerns?
