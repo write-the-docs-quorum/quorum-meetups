@@ -40,11 +40,11 @@ Shortly before the tech check:
 
 ## Agenda for the tech check
 
-1. Introductions
+1. Thank you for being willing to speak!
+
+2. Introductions (if needed)
    - Introduce ourselves (name, location, role at work)
    - Introduce Write the Docs and Quorum
-
-2. Thank you for being willing to speak!
 
 3. Provide a high-level overview of the meeting schedule
    - Ask if they can be available 5-10 minutes before the call to make sure they are there and ready.

@@ -9,6 +9,18 @@ Listed by most recent to oldest:
     <th>Details</th>
   </tr>
   <tr>
+    <td>Date</td>
+    <td>WCQ</td>
+    <td>
+      <ul>
+        <li>From Microcontent to Neurons: How intelligent is your content?</li>
+        <li>Michael Iantosca</li>
+        <li>Sponsored by Seattle</li>
+        <li>32 participants, 68 RSVPs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td>2-10-2022</td>
     <td>ECQ</td>
     <td>
