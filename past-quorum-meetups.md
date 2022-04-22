@@ -9,6 +9,18 @@ Listed by most recent to oldest:
     <th>Details</th>
   </tr>
   <tr>
+    <td>Date</td>
+    <td>ECQ</td>
+    <td>
+      <ul>
+        <li>Creating Documentation Developers Will Love (and Use!)</li>
+        <li>Sean Keegan</li>
+        <li>Sponsored by Florida WTD</li>
+        <li>56 participants, 175 RSVPs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td>3-24-2022</td>
     <td>WCQ</td>
     <td>
