@@ -46,13 +46,12 @@ Local chapter organizers will announce upcoming events and direct their members 
 Meetups are held quarterly.
 On a rotating basis, a different meetup will be responsible for the quarterly super meetup.
 
-If it is safe to do so (cornavirus notwithstanding), individual chapters can still meet in person during the off months for social networking or for their own local educational presentation events.
+If it is safe to do so (coronavirus notwithstanding), individual chapters can still meet in person during the off months for social networking or for their own local educational presentation events.
 Individual chapters are also welcome to organize in-person events to view the super meetups.
 
 As a general rule, East Coast meetups will occur the first month of the quarter and West Coast meetups will occur in the second month of the quarter.
 The off months for each quarter can act as a backup for meetings if needed.
 We'll have a planning meeting the month before each meetup to plan the logistics for the upcoming quarter.
-See [Quorum meetup schedule and calendar (detailed)](meetup-calendar-detailed.md) for more information.
 
 Quorum meetup events will ideally occur during the 3rd week of the month, with the 4th week acting as a backup if needed. We offer speakers Monday through Thursday as the range of acceptable days of the week for presentations.
 Meetups will be held at:
@@ -62,14 +61,49 @@ Meetups will be held at:
   change)
 
 
+### East Coast U.S. calendar for 2022
+
+  | Month  | Event                         |
+  | ------ | ----------------------------- |
+  | Jan    | Off (no meetings)             |
+  | Feb    | East Coast Quorum meetup      |
+  | Mar    | Off (no meetings)             |
+  | Apr    | East Coast Quorum meetup      |
+  | May    | WTD Portland conference       |
+  | June   | Off (no meetings)             |
+  | July   | Off (no meetings)             |
+  | Aug    | East Coast Quorum meetup      |
+  | Sept   | Off (no meetings)             |
+  | Oct    | Off (no meetings)             |
+  | Nov    | East Coast Quorum meetup      |
+  | Dec    | Off (no meetings)             |
+
+
+### West Coast U.S. calendar for 2022
+
+  | Month  | Event                         |
+  | ------ | ----------------------------- |
+  | Jan    | West Coast Quorum meetup      |
+  | Feb    | Off (no meetings)             |
+  | Mar    | West Coast Quorum meetup      |
+  | Apr    | Off (no meetings)             |
+  | May    | WTD Portland conference       |
+  | June   | West Coast Quorum meetup      |
+  | July   | Off (no meetings)             |
+  | Aug    | Off (no meetings)             |
+  | Sept   | West Coast Quorum meetup      |
+  | Oct    | Off (no meetings)             |
+  | Nov    | Off (no meetings)             |
+  | Dec    | West Coast Quorum meetup      |
+
+
 ## :hourglass_flowing_sand: Meeting agenda and times
 
 Our meetings will last an hour and will follow this agenda and time structure:
 
-- **7:00 to 7:10 - Social networking time** - For the first 10 minutes, remote attendees join the Zoom call and socialize.
-- **7:10 to 7:15 - Announcements** - The emcee will give announcements and introduce the speaker.
-- **7:15 to 7:45 - Presentation and Q&A** - The speaker can spend about 30-45 minutes giving a presentation, which includes the Q&A portion. The Q&A can expand to fill the time if the presentation is short.
-- **7:45 to 8:00 - Breakout rooms by meetup** - We'll use Zoom breakout rooms to have people meet with their individual meetup organizers to say hi to other people in their meetup. Organizers can use that time to talk about job openings, talk about future meetups, and socialize.
+- **7:00 to 7:10 - Icebreakers and announcements** - For the first 10 minutes, remote attendees can join and participate in icebreaker activities. Then, the emcee will give announcements and introduce the speaker.
+- **7:15 to 8:00 - Presentation and Q&A** - The speaker can spend about 30-45 minutes giving a presentation, which includes the Q&A portion. The Q&A can expand to fill the time if the presentation is short.
+- **7:45 to 8:30 - Breakout rooms by meetup** - Attendance at this portion of the meetup is optional. We'll use Zoom breakout rooms to have people meet with their individual meetup organizers to say hi to other people in their meetup. Organizers can use that time to talk about job openings, talk about future meetups, and socialize.
 
 See [Meeting agenda (detailed)](meeting-agenda-detailed.md) more detailed meeting instructions. See also: [Emcee script](emcee-script.md).
 

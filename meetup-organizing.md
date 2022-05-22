@@ -1,4 +1,4 @@
-# Organizing a meetup
+# Organizing a Quorum meetup
 
 Thank you for participating in Quorum and for being willing to host an upcoming event!
 
