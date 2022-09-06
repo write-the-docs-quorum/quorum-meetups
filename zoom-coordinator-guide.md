@@ -59,13 +59,16 @@ OUR SPEAKER:
 [Presenter(s) name, title, and bio]
 
 AGENDA
-7:00 to 7:05 - Icebreaker activity
-7:05 to 7:10 - Announcements
+7:00 to 7:10 - Announcements and icebreaker
 7:10 to 8:00 - Presentation and Q&A
-8:00 to 8:15 - Optional breakout rooms by meetup - Stay a few minutes after the presentation to meet with your local meetup organizers and members to say hi to other people in your area!
+8:00 to 8:30 - Optional breakout rooms by meetup. Stay a few minutes after the presentation to meet with your local meetup organizers and members to say hi to other people in your area!
 
 SPONSORING MEETUPS:
-The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year. The following U.S. East Coast and Central meetups are sponsoring this Meetup event:
+The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year.
+
+The [sponsoring meetup] is hosting this month's Quorum event: [link]
+
+The following Canada/U.S. East Coast and Central meetups are sponsoring this Meetup event:
 
 Austin, TX - https://www.meetup.com/WriteTheDocs-ATX-Meetup/
 Detroit, MI/Windsor, CAN (our host meetup!) - https://www.meetup.com/write-the-docs-detroit-windsor/
@@ -88,13 +91,16 @@ OUR SPEAKER:
 [Presenter(s) name, title, and bio]
 
 AGENDA
-7:00 to 7:05 - Icebreaker activity
-7:05 to 7:10 - Announcements
+7:00 to 7:10 - Announcements and icebreaker
 7:10 to 8:00 - Presentation and Q&A
-8:00 to 8:15 - Optional breakout rooms by meetup - Stay a few minutes after the presentation to meet with your local meetup organizers and members to say hi to other people in your area!
+8:00 to 8:30 - Optional breakout rooms by meetup. Stay a few minutes after the presentation to meet with your local meetup organizers and members to say hi to other people in your area!
 
 SPONSORING MEETUPS
-The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year. The following U.S. West Coast and Australia meetups are sponsoring this Meetup event:
+The Quorum program brings together various local Write the Docs meetup chapters that are in a common time zone to provide quarterly super meetups over Zoom throughout the year.
+
+The [sponsoring meetup] is hosting this month's Quorum event: [link]
+
+The following U.S. West Coast and Australia meetups are sponsoring this Meetup event:
 
 Australia - https://www.meetup.com/Write-the-Docs-Australia/
 Bay Area, CA - https://www.meetup.com/Write-the-Docs-Bay-Area/
@@ -149,13 +155,11 @@ However, be aware that we currently have more than 100 participants who have RSV
 
 On that note, here's our agenda for tonight (listed in [Eastern/Pacific] times):
 
-7:00 to 7:10 - Social networking time and icebreaker activities
+7:00 to 7:10 - Announcements and icebreakers
 
-7:10 to 7:15 - Announcements
+7:10 to 8:00 - Presentation and Q&A
 
-7:15 to 7:45 - Presentation and Q&A
-
-7:45 to 8:00 - Breakout rooms by meetup - We'll use Zoom breakout rooms to have people meet with their local meetup organizers to say hi to other people in their area. Local meetup organizers will use that time to talk about local job openings, future meetups, and connect in a smaller group format. Even if you're not an official member of the meetup, you're welcome to stay and join one of the breakout rooms to connect with other attendees.
+8:00 to 8:30 - Breakout rooms by meetup - We'll use Zoom breakout rooms to have people meet with their local meetup organizers to say hi to other people in their area. Local meetup organizers will use that time to talk about local job openings, future meetups, and connect in a smaller group format. Even if you're not an official member of the meetup, you're welcome to stay and join one of the breakout rooms to connect with other attendees.
 ```
 
 ## Tips for running the actual Zoom call
