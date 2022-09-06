@@ -9,11 +9,35 @@ Listed by most recent to oldest:
     <th>Details</th>
   </tr>
   <tr>
+    <td>8-30-2022</td>
+    <td>ECQ/WCQ</td>
+    <td>
+      <ul>
+        <li>Starting Docs in a Startup: A First-in-the-Door Experience</li>
+        <li>Jonquil Williams</li>
+        <li>Sponsored by Toronto WTD</li>
+        <li>44 participants, 160 RSVPs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>6-30-2022</td>
+    <td>ECQ/WCQ</td>
+    <td>
+      <ul>
+        <li><a href="https://www.youtube.com/watch?v=2DIML1G6OiY">User Research for Technical Writers</a></li>
+        <li>Serena Jolley</li>
+        <li>Sponsored by Bay Area WTD</li>
+        <li>64 participants, 138 RSVPs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td>4-21-2022</td>
     <td>ECQ</td>
     <td>
       <ul>
-        <li>Creating Documentation Developers Will Love (and Use!)</li>
+        <li><a href="https://www.youtube.com/watch?v=lHZpkyEh868">Creating Documentation Developers Will Love (and Use!)</a></li>
         <li>Sean Keegan</li>
         <li>Sponsored by Florida WTD</li>
         <li>56 participants, 175 RSVPs</li>
@@ -25,7 +49,7 @@ Listed by most recent to oldest:
     <td>WCQ</td>
     <td>
       <ul>
-        <li>From Microcontent to Neurons: How intelligent is your content?</li>
+        <li><a href="https://www.youtube.com/watch?v=of59ctoh56E">From Microcontent to Neurons: How intelligent is your content?</a></li>
         <li>Michael Iantosca</li>
         <li>Sponsored by Seattle</li>
         <li>32 participants, 68 RSVPs</li>
@@ -49,7 +73,7 @@ Listed by most recent to oldest:
     <td>WCQ</td>
     <td>
       <ul>
-        <li>Docker Desktop for Documentarians: A novice's introduction</li>
+        <li><a href="https://www.youtube.com/watch?v=CS94EAWS1tY">Docker Desktop for Documentarians: A novice's introduction</a></li>
         <li>Alec Clews</li>
         <li>Sponsored by Australia WTD</li>
         <li>38 participants, 96 RSVPs (impacted by 1 week delay)</li>
@@ -61,7 +85,7 @@ Listed by most recent to oldest:
     <td>ECQ and WCQ</td>
     <td>
       <ul>
-        <li>Docs for Developers: A conversation with the authors</li>
+        <li><a href="https://www.youtube.com/watch?v=4GV72gw5go0">Docs for Developers: A conversation with the authors</a></li>
         <li>Jared Bhatti, Zachary Corleissen, Dave Nunez</li>
         <li>Sponsored by the Bay Area, CA</li>
         <li>69 participants, 144 RSVPs</li>
@@ -73,7 +97,7 @@ Listed by most recent to oldest:
     <td>WCQ</td>
     <td>
       <ul>
-        <li>More Than Words: An introduction to information architecture</li>
+        <li><a href="https://www.youtube.com/watch?v=ro6Jspi9QqM">More Than Words: An introduction to information architecture</a></li>
         <li>Lana Brindley</li>
         <li>Sponsored by Portland, OR</li>
         <li>100 participants, 300 RSVPs</li>

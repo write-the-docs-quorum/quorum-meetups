@@ -96,6 +96,40 @@ Meetups will be held at:
   | Nov    | Off (no meetings)             |
   | Dec    | West Coast Quorum meetup      |
 
+### East Coast U.S. calendar for 2023
+
+  | Q | Month | Event                         |
+  | - | ----- | ----------------------------- |
+  | 1 | Jan   | Off (no meetings)             |
+  | 1 | Feb   | Off (no meetings)             |
+  | 1 | Mar   | East Coast Quorum meetup      |
+  | 2 | Apr   | Off (no meetings)             |
+  | 2 | May   | WTD Portland conference       |
+  | 2 | June  | East Coast Quorum meetup      |
+  | 3 | July  | Off (no meetings)             |
+  | 3 | Aug   | Off (no meetings)             |
+  | 3 | Sept  | East Coast Quorum meetup      |
+  | 4 | Oct   | Off (no meetings)             |
+  | 4 | Nov   | East Coast Quorum meetup      |
+  | 4 | Dec   | Off (no meetings)             |
+
+
+### West Coast U.S. calendar for 2023
+
+  | Q | Month | Event                         |
+  | - | ----- | ----------------------------- |
+  | 1 | Jan   | Off (no meetings)             |
+  | 1 | Feb   | West Coast Quorum meetup      |
+  | 1 | Mar   | Off (no meetings)             |
+  | 2 | Apr   | West Coast Quorum meetup      |
+  | 2 | May   | WTD Portland conference       |
+  | 2 | June  | Off (no meetings)             |
+  | 3 | July  | West Coast Quorum meetup      |
+  | 3 | Aug   | Off (no meetings)             |
+  | 3 | Sept  | Off (no meetings)             |
+  | 4 | Oct   | West Coast Quorum meetup      |
+  | 4 | Nov   | Off (no meetings)             |
+  | 4 | Dec   | Off (no meetings)             |
 
 ## :hourglass_flowing_sand: Meeting agenda and times
 

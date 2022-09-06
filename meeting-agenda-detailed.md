@@ -9,7 +9,7 @@ Our meetings will last an hour and will follow this agenda and time structure:
 
 - **7:00 to 7:10 - Icebreakers and announcements** - For the first 10 minutes, remote attendees can join and participate in icebreaker activities. Then, the emcee will give announcements and introduce the speaker.
 - **7:15 to 8:00 - Presentation and Q&A** - The speaker can spend about 30-45 minutes giving a presentation, which includes the Q&A portion. The Q&A can expand to fill the time if the presentation is short.
-- **7:45 to 8:30 - Breakout rooms by meetup** - Attendance at this portion of the meetup is optional. We'll use Zoom breakout rooms to have people meet with their individual meetup organizers to say hi to other people in their meetup. Organizers can use that time to talk about job openings, talk about future meetups, and socialize.
+- **8:00 to 8:30 - Breakout rooms by meetup** - Attendance at this portion of the meetup is optional. We'll use Zoom breakout rooms to have people meet with their individual meetup organizers to say hi to other people in their meetup. Organizers can use that time to talk about job openings, talk about future meetups, and socialize.
 
 
 ## Icebreakers and announcements
