@@ -9,11 +9,23 @@ Listed by most recent to oldest:
     <th>Details</th>
   </tr>
   <tr>
+    <td>Date</td>
+    <td>ECQ/WCQ</td>
+    <td>
+      <ul>
+        <li><a href="https://youtu.be/8JDm5I6AUrI">UI Text: Simplicity is Difficult</a></li>
+        <li>Mike Jang</li>
+        <li>Sponsored by Portland WTD</li>
+        <li>61 participants, 102 RSVPs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
     <td>8-30-2022</td>
     <td>ECQ/WCQ</td>
     <td>
       <ul>
-        <li>Starting Docs in a Startup: A First-in-the-Door Experience</li>
+        <li><a href="https://www.youtube.com/watch?v=LLYdszgk4Bs">Starting Docs in a Startup: A First-in-the-Door Experience</a></li>
         <li>Jonquil Williams</li>
         <li>Sponsored by Toronto WTD</li>
         <li>44 participants, 160 RSVPs</li>
