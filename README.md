@@ -60,42 +60,6 @@ Meetups will be held at:
 - 7:00 p.m. Pacific / 8:00p.m. Mountain for the West Coast (possibly subject to
   change)
 
-
-### East Coast U.S. calendar for 2022
-
-  | Month  | Event                         |
-  | ------ | ----------------------------- |
-  | Jan    | Off (no meetings)             |
-  | Feb    | East Coast Quorum meetup      |
-  | Mar    | Off (no meetings)             |
-  | Apr    | East Coast Quorum meetup      |
-  | May    | WTD Portland conference       |
-  | June   | Off (no meetings)             |
-  | July   | Off (no meetings)             |
-  | Aug    | East Coast Quorum meetup      |
-  | Sept   | Off (no meetings)             |
-  | Oct    | Off (no meetings)             |
-  | Nov    | East Coast Quorum meetup      |
-  | Dec    | Off (no meetings)             |
-
-
-### West Coast U.S. calendar for 2022
-
-  | Month  | Event                         |
-  | ------ | ----------------------------- |
-  | Jan    | West Coast Quorum meetup      |
-  | Feb    | Off (no meetings)             |
-  | Mar    | West Coast Quorum meetup      |
-  | Apr    | Off (no meetings)             |
-  | May    | WTD Portland conference       |
-  | June   | West Coast Quorum meetup      |
-  | July   | Off (no meetings)             |
-  | Aug    | Off (no meetings)             |
-  | Sept   | West Coast Quorum meetup      |
-  | Oct    | Off (no meetings)             |
-  | Nov    | Off (no meetings)             |
-  | Dec    | West Coast Quorum meetup      |
-
 ### East Coast U.S. calendar for 2023
 
   | Q | Month | Event                         |
@@ -107,8 +71,8 @@ Meetups will be held at:
   | 2 | May   | WTD Portland conference       |
   | 2 | June  | East Coast Quorum meetup      |
   | 3 | July  | Off (no meetings)             |
-  | 3 | Aug   | Off (no meetings)             |
-  | 3 | Sept  | East Coast Quorum meetup      |
+  | 3 | Aug   | East Coast Quorum meetup      |
+  | 3 | Sept  | WTD Atlantic conference       |
   | 4 | Oct   | Off (no meetings)             |
   | 4 | Nov   | East Coast Quorum meetup      |
   | 4 | Dec   | Off (no meetings)             |
@@ -126,7 +90,7 @@ Meetups will be held at:
   | 2 | June  | Off (no meetings)             |
   | 3 | July  | West Coast Quorum meetup      |
   | 3 | Aug   | Off (no meetings)             |
-  | 3 | Sept  | Off (no meetings)             |
+  | 3 | Sept  | WTD Atlantic conference       |
   | 4 | Oct   | West Coast Quorum meetup      |
   | 4 | Nov   | Off (no meetings)             |
   | 4 | Dec   | Off (no meetings)             |
