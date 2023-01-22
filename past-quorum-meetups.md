@@ -9,8 +9,20 @@ Listed by most recent to oldest:
     <th>Details</th>
   </tr>
   <tr>
-    <td>Date</td>
-    <td>ECQ/WCQ</td>
+    <td>11-10-2022</td>
+    <td>ECQ</td>
+    <td>
+      <ul>
+        <li>7 documentation techniques rooted in empathy advocacy (and why they work)</li>
+        <li>Ryan Macklin</li>
+        <li>Sponsored by New England</li>
+        <li>41 participants, 103 RSVPs</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>9-20-2022</td>
+    <td>WCQ</td>
     <td>
       <ul>
         <li><a href="https://youtu.be/8JDm5I6AUrI">UI Text: Simplicity is Difficult</a></li>
@@ -22,7 +34,7 @@ Listed by most recent to oldest:
   </tr>
   <tr>
     <td>8-30-2022</td>
-    <td>ECQ/WCQ</td>
+    <td>ECQ</td>
     <td>
       <ul>
         <li><a href="https://www.youtube.com/watch?v=LLYdszgk4Bs">Starting Docs in a Startup: A First-in-the-Door Experience</a></li>
@@ -34,7 +46,7 @@ Listed by most recent to oldest:
   </tr>
   <tr>
     <td>6-30-2022</td>
-    <td>ECQ/WCQ</td>
+    <td>WCQ</td>
     <td>
       <ul>
         <li><a href="https://www.youtube.com/watch?v=2DIML1G6OiY">User Research for Technical Writers</a></li>
